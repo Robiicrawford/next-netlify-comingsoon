@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="True North Challenges" />
         <p className="description">
-          Coming Soon!
+          Out for a run will be back shortly!
         </p>
       </main>
 
